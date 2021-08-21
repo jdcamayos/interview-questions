@@ -1,0 +1,8 @@
+{
+  "name": "interview-questions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jdcamayos/interview-questions.git",
+  "author": "Juan <jd.camayo@gmail.com>",
+  "license": "MIT"
+}
